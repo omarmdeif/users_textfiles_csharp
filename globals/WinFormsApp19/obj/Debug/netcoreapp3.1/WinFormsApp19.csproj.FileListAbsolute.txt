@@ -1,0 +1,17 @@
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\bin\Debug\netcoreapp3.1\WinFormsApp19.exe
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\bin\Debug\netcoreapp3.1\WinFormsApp19.deps.json
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\bin\Debug\netcoreapp3.1\WinFormsApp19.runtimeconfig.json
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\bin\Debug\netcoreapp3.1\WinFormsApp19.runtimeconfig.dev.json
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\bin\Debug\netcoreapp3.1\WinFormsApp19.dll
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\bin\Debug\netcoreapp3.1\WinFormsApp19.pdb
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.AssemblyInfo.cs
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.dll
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.pdb
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.genruntimeconfig.cache
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.Form2.resources
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.Form3.resources
+C:\Users\Omar\source\repos\WinFormsApp19\WinFormsApp19\obj\Debug\netcoreapp3.1\WinFormsApp19.global.resources
